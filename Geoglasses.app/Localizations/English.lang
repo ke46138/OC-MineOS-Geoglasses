@@ -1,0 +1,6 @@
+{
+  scan = "Scan",
+  notSigma = "This program requires geolyzer and glasses terminal from openglasses 2 mod",
+  removeGomno = "Remove projection",
+  found = "Found ores: "
+}

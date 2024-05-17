@@ -1,0 +1,6 @@
+{
+  scan = "Сканировать",
+  notSigma = "Поставь геоАналЛизатор и glasses terminal из мода openglasses 2",
+  removeGomno = "Очистить очки",
+  found = "Найдено руд: "
+}
